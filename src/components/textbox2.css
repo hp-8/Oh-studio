@@ -1,0 +1,61 @@
+.footer-text {
+    font-size: 60px;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 0;
+    opacity: 0; /* Initially hide the elements */
+    transform: translateY(20px); /* Initially move the elements up a bit */
+    transition: opacity 1s ease, transform 1s ease; /* Add a smooth transition */
+  }
+  
+  .contact {
+    margin-top: -15px;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: gray;
+    font-weight: 500;
+    opacity: 0; /* Initially hide the elements */
+    transform: translateY(20px); /* Initially move the elements up a bit */
+    transition: opacity 2s ease, transform 2s ease; /* Add a smooth transition */
+  }
+  
+  .animate-text {
+    opacity: 1; /* Show the elements when in view */
+    transform: translateY(0); /* Reset the translation to its original position */
+  }
+  
+  @media only screen and (min-width: 769px) {
+    .animate-text {
+      animation: fadeInUp 1s ease-in-out;
+    }
+  
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  }
+  
+  /* Mobile responsiveness */
+  @media only screen and (max-width: 768px) {
+    .footer-text {
+      font-size: 40px; /* Adjust font size for mobile devices */
+    }
+  
+    .contact {
+      font-size: 30px; /* Adjust font size for mobile devices */
+      margin-bottom: 10px; /* Adjust margin for mobile devices */
+    }
+  
+    .animate-text {
+      opacity: 1; /* Show the elements when in view for mobile devices */
+      transform: translateY(0); /* Reset the translation to its original position for mobile devices */
+      transition: opacity 1s ease, transform 1s ease; /* Add the same transition effect for mobile devices */
+    }
+  }
