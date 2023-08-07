@@ -7,9 +7,10 @@ Hey there! 👋 As a passionate React developer, I'm thrilled to showcase the **
 Dive into a world of innovation and style with our meticulously crafted products and brands. From cutting-edge electronics to fashion-forward attire, we've got something for every brand. Here's a glimpse of what you'll find:
 
 - 📱 **Tech Brands**: Experience the future with this feature-packed products of this brand.
-- 👟 **Luxe Jewelry**: Step up your fashion game with these trendsetting jewelry.
-- 🛋️ **Homegrown Skincare Brands**: Indulge in self-care with our handpicked skincare essentials.
-- 💆 **Funky Eyewear**:Elevate your look with these eyewears. 
+- 💍 **Luxe Jewelry**: Step up your fashion game with these trendsetting jewelry.
+- 🧴 **Homegrown Skincare Brands**: Indulge in self-care with our handpicked skincare essentials.
+- 🕶️ **Funky Eyewear**:Elevate your look with these eyewears. 
+
 
 ## Demo
 
