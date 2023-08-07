@@ -2,7 +2,7 @@
 
 Hey there! 👋 As a passionate React developer, I'm thrilled to showcase the **Company Services Showcase App** that I've had the privilege to develop. This app beautifully demonstrates both my frontend skills and my dedication to creating exceptional user experiences.
 
-## Explore our Elegance
+## Brand Persona
 
 Dive into a world of innovation and style with our meticulously crafted products and brands. From cutting-edge electronics to fashion-forward attire, we've got something for every brand. Here's a glimpse of what you'll find:
 
