@@ -13,7 +13,7 @@ Dive into a world of innovation and style with our meticulously crafted products
 
 ## Demo
 
-(https://oh-studio-mu.vercel.app).
+[💻](https://oh-studio-mu.vercel.app).
 
 ## Tech Stack
 
