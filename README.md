@@ -1,19 +1,19 @@
-# Company Product Showcase App 🚀
+# Company Services Showcase App 🚀
 
-Hey there! 👋 As a passionate React developer, I'm thrilled to showcase the **Company Product Showcase App** that I've had the privilege to develop. This app beautifully demonstrates both my frontend skills and my dedication to creating exceptional user experiences.
+Hey there! 👋 As a passionate React developer, I'm thrilled to showcase the **Company Services Showcase App** that I've had the privilege to develop. This app beautifully demonstrates both my frontend skills and my dedication to creating exceptional user experiences.
 
-## Explore Our Products
+## Explore our Elegance
 
-Dive into a world of innovation and style with our meticulously curated product lineup. From cutting-edge electronics to fashion-forward attire, we've got something for everyone. Here's a glimpse of what you'll find:
+Dive into a world of innovation and style with our meticulously crafted products and brands. From cutting-edge electronics to fashion-forward attire, we've got something for every brand. Here's a glimpse of what you'll find:
 
-- 📱 **Smartphone X Pro**: Experience the future with this feature-packed smartphone.
-- 👟 **Stylish Sneakers**: Step up your fashion game with these trendsetting sneakers.
-- 🛋️ **Luxury Sofa Set**: Elevate your living space with our elegant sofa collection.
-- 💆 **Skincare Bundle**: Indulge in self-care with our handpicked skincare essentials.
+- 📱 **Tech Brands**: Experience the future with this feature-packed products of this brand.
+- 👟 **Luxe Jewelry**: Step up your fashion game with these trendsetting jewelry.
+- 🛋️ **Homegrown Skincare Brands**: Indulge in self-care with our handpicked skincare essentials.
+- 💆 **Funky Eyewear**:Elevate your look with these eyewears. 
 
-## Seamless Shopping Experience
+## Demo
 
-To take your exploration further and make your purchases hassle-free, visit our [E-Commerce Platform](https://www.companyecommerce.com). It's where my frontend skills come into play, ensuring a smooth and engaging shopping journey. 
+[E-Commerce Platform](https://www.companyecommerce.com).
 
 ## Tech Stack
 
