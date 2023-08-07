@@ -27,6 +27,6 @@ This app is a testament to my expertise in the following technologies:
 
 ## Connect with Me
 
-I'm excited to showcase my development skills through this app, and I'm open to discussing the technical aspects, challenges, and decisions that went into building it. Feel free to reach out to me at developer@example.com to chat about all things frontend, React, and app development.
+I'm excited to showcase my development skills through this app, and I'm open to discussing the technical aspects, challenges, and decisions that went into building it. Feel free to reach out to me at patadiaharsh.8@gmail.com to chat about all things frontend, React, and app development.
 
-Thank you for exploring the Company Product Showcase App. Your support and interest mean a lot to me as a developer on a continuous journey of growth and learning. 🙌
+Thank you for exploring the Company Services Showcase App. Your support and interest mean a lot to me as a developer on a continuous journey of growth and learning. 🙌
